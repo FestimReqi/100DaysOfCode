@@ -2,21 +2,21 @@
 
 ✅ **What I Did:**
 
-- Ndërtoja projektin **Random Quote Generator** duke përdorur HTML, CSS dhe JavaScript
-- Krijova një listë citatesh dhe përdora `Math.random()` për të shfaqur një citat të rastësishëm
-- Manipulova DOM-in për të shfaqur dinamike citatet dhe vitin aktual në footer
+- Built the **Random Quote Generator** project using HTML, CSS, and JavaScript
+- Created a list of quotes and used `Math.random()` to display a random one
+- Manipulated the DOM to dynamically show the selected quote and the current year in the footer
 
 📚 **What I Learned:**
 
-- Si të përdor `array`, `Math.floor()` dhe `Math.random()` për të gjeneruar përmbajtje të rastësishme
-- Si të manipuloj elementët e DOM-it me `getElementById()` dhe `textContent`
-- Si të përdor `Date` për të marrë vitin aktual
+- How to use `array`, `Math.floor()`, and `Math.random()` to generate random content
+- How to manipulate DOM elements using `getElementById()` and `textContent`
+- How to use `Date` objects to retrieve and display the current year
 
 ❗ **Challenges:**
 
-- Menaxhimi i funksioneve dhe ngjarjeve (`onclick`, `DOMContentLoaded`)
-- Kujdesi ndaj renditjes së skedarëve në HTML dhe inicializimi i saktë i funksioneve
+- Managing function execution and event handling (`onclick`, `DOMContentLoaded`)
+- Making sure JavaScript runs after the HTML is loaded and functions are initialized properly
 
 💡 **Plan for Tomorrow:**
 
-- Të eksploroj `if/else`, krahasime dhe logjikën booleane për të ndërtuar funksione me kushte
+- Explore `if/else` conditions, comparison operators, and boolean logic to build conditional functions
