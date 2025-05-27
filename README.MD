@@ -51,19 +51,29 @@ Welcome to my #100DaysOfCode challenge where I focus on becoming strong in JavaS
 
 ## 🗓️ Daily Log Template
 
-```
-### Day X – [Date]
-✅ What I Did:
--
-📚 What I Learned:
--
-❗ Challenges:
--
-💡 Plan for Tomorrow:
--
-```
+### Day 1 – [25 May 2025]
 
----
+✅ **What I Did:**
+
+- Built a small project called **Random Quote Generator** using HTML, CSS, and JavaScript
+- Created an array of quotes and used `Math.random()` to display one randomly
+- Used DOM manipulation to display the quote and dynamically show the current year in the footer
+
+📚 **What I Learned:**
+
+- How to use `Math.floor()` and `Math.random()` to generate random results
+- How to manipulate the DOM using `getElementById()` and `textContent`
+- How to retrieve and display the current year using `Date` objects
+
+❗ **Challenges:**
+
+- Remembering to structure the JavaScript properly to run after DOM load
+- Managing function calls and avoiding duplicate logic (noticed duplicate `getNewYear()` calls)
+
+💡 **Plan for Tomorrow:**
+
+- Learn and practice `if/else` statements, comparison operators, and boolean logic
+- Apply conditionals in a small interactive project (like a number guesser or age checker)
 
 ## ✅ Progress Tracker
 
