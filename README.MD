@@ -67,15 +67,13 @@ Welcome to my #100DaysOfCode challenge where I focus on becoming strong in JavaS
 
 ## ✅ Progress Tracker
 
-| Day | Date | Topic / Project | Notes |
-| --- | ---- | --------------- | ----- |
-| 1   |      |                 |       |
-| 2   |      |                 |       |
-| 3   |      |                 |       |
-| ... | ...  | ...             | ...   |
-| 100 |      |                 |       |
-
----
+| Day | Date        | Topic / Project        | Notes                                                                 |
+| --- | ----------- | ---------------------- | --------------------------------------------------------------------- |
+| 1   | 25 May 2025 | Random Quote Generator | Built a project with HTML/CSS/JS to display random quotes dynamically |
+| 2   |             |                        |                                                                       |
+| 3   |             |                        |                                                                       |
+| ... | ...         | ...                    | ...                                                                   |
+| 100 |             |                        |                                                                       |
 
 ## 🚀 Links
 

@@ -1,21 +1,22 @@
 ### Day 1 – [25 May 2025]
 
-✅ What I Did:
+✅ **What I Did:**
 
-- Mësova për variablat `let`, `const`, `var`
-- Kuptova tipet primitive dhe console.log
-- Ndërtoja një mini-program për llogaritjen e moshës dhe ditëve të jetuara
+- Ndërtoja projektin **Random Quote Generator** duke përdorur HTML, CSS dhe JavaScript
+- Krijova një listë citatesh dhe përdora `Math.random()` për të shfaqur një citat të rastësishëm
+- Manipulova DOM-in për të shfaqur dinamike citatet dhe vitin aktual në footer
 
-📚 What I Learned:
+📚 **What I Learned:**
 
-- Dallimi midis `let` dhe `const`
-- Pse `var` nuk përdoret më shpesh
-- Si të shfaq vlera në console
+- Si të përdor `array`, `Math.floor()` dhe `Math.random()` për të gjeneruar përmbajtje të rastësishme
+- Si të manipuloj elementët e DOM-it me `getElementById()` dhe `textContent`
+- Si të përdor `Date` për të marrë vitin aktual
 
-❗ Challenges:
+❗ **Challenges:**
 
-- Kuptimi i `undefined` dhe `null`
+- Menaxhimi i funksioneve dhe ngjarjeve (`onclick`, `DOMContentLoaded`)
+- Kujdesi ndaj renditjes së skedarëve në HTML dhe inicializimi i saktë i funksioneve
 
-💡 Plan for Tomorrow:
+💡 **Plan for Tomorrow:**
 
-- Të mësoj për `if/else` dhe `boolean logic`
+- Të eksploroj `if/else`, krahasime dhe logjikën booleane për të ndërtuar funksione me kushte
