@@ -25,8 +25,14 @@ function getNewYear() {
   year.textContent = newYear;
 }
 
-// Call Functions
-document.addEventListener("DOMContentLoaded", function () {
-  generateQuote();
-  getNewYear();
-});
+fetch("../footer_projects/footer.html")
+  .then((res) => res.text())
+  .then((data) => {
+    document.getElementById("footer-placeholder").innerHTML = data;
+
+    // Pasi futet footer-i, vendos vitin
+    const year = document.getElementById("year");
+    if (year) {
+      year.textContent = new Date().getFullYear();
+    }
+  });

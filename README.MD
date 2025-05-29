@@ -77,19 +77,20 @@ Welcome to my #100DaysOfCode challenge where I focus on becoming strong in JavaS
 
 ## ✅ Progress Tracker
 
-| Day | Date        | Topic / Project        | Notes                                                                 |
-| --- | ----------- | ---------------------- | --------------------------------------------------------------------- |
-| 1   | 25 May 2025 | Random Quote Generator | Built a project with HTML/CSS/JS to display random quotes dynamically |
-| 2   |             |                        |                                                                       |
-| 3   |             |                        |                                                                       |
-| ... | ...         | ...                    | ...                                                                   |
-| 100 |             |                        |                                                                       |
+| Day | Date        | Topic / Project        | Notes                                                                                             |
+| --- | ----------- | ---------------------- | ------------------------------------------------------------------------------------------------- |
+| 1   | 25 May 2025 | Random Quote Generator | Built a project with HTML/CSS/JS to display random quotes dynamically                             |
+| 2   | 29 May 2025 | Counter App            | Created a simple counter with JS. Implemented DOM manipulation, events, and dynamic color changes |
+| 3   |             |                        |                                                                                                   |
+| ... | ...         | ...                    | ...                                                                                               |
+| 100 |             |                        |                                                                                                   |
 
 ## 🚀 Links
 
 - [GitHub Repo for Projects](#)
 - [Live Projects on Netlify/Vercel](#)
 - [Portfolio Website](https://festimreci-dev.netlify.app/)
+- [Buy Me a Coffee](https://buymeacoffee.com/festimreci)
 
 ---
 
