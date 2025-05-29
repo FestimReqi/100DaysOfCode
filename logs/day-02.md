@@ -41,7 +41,7 @@ Coming soon...
 ## 🗂️ Project Files
 
 You can find the source code in this repo under:  
-`/day-02-counter-app`
+`/day-02`
 
 ---
 
